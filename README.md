@@ -1,2 +1,4 @@
 # adi
-this is my first git reopsitory
+this is my first git repository.
+Author - Aditya Yadav
+
